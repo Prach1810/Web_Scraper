@@ -1,0 +1,7 @@
+Virtual env
+urllib.request
+requests
+bs4-> BeautifulSoup
+newspaper -> Article
+time
+MySQLdb
